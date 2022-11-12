@@ -1,5 +1,5 @@
 ### Іншими мовами: 
-![EN](./README.md)
+[EN](README.md)
 
 # Проєкт Changelog.io
 
