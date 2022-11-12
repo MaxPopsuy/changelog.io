@@ -1,5 +1,5 @@
 ### In other languages: 
-![UA](README.UA.md)
+[UA](README.UA.md)
 
 # Changelog.io Project
 
