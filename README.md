@@ -25,7 +25,7 @@ This is the place where you can find all my projects/games, changelogs to them, 
 
 ## Demo
 
-here be link in future
+here will be a link in the future
 
 
 ## Features
