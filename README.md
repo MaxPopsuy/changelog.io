@@ -7,7 +7,7 @@
 
 ## Technologies
 
-In changelog.io project I used this technologies:
+In changelog.io project I used these technologies:
 
 [![Express](https://img.shields.io/badge/-Express-292D3E?style=for-the-badge&logo=express)](https://expressjs.com/) 
 [![Mongodb + Mongoose](https://img.shields.io/badge/-Mongodb%20+%20Mongoose-292D3E?style=for-the-badge&logo=mongodb)](https://mongoosejs.com/)
